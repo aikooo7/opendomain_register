@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/open-domains/register/main/media/icon.png" height="128"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/open-domains/register/main/media/icon.png" height="128"></p> 
 <h1 align="center">Open Domains</h1>
 
 <p align="center">
